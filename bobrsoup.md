@@ -10,7 +10,7 @@ Bobr make soup!!!!!!!!!!!!!!!!!!!!!!!
 - 10L muddy water
 - 16 carrots
 - 5 lettuce
-- 50 $\mu$ g bobr spice
+- $50\mu\mathrm{g}$ bobr spice
 
 ## Instructions
 
